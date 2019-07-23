@@ -649,10 +649,10 @@ void CISNP::lese_imputed_info_score_file(vector<CBSNP*>&genInfo,vector<string>&c
 
 	 						}
 	 						//
-	 						//for freq1
-	 						if(cZeile[5]!="")
+	 						//for info
+	 						if(cZeile[6]!="")
 	 						{
-	 							temp_info	=atof(cZeile[5].c_str());
+	 							temp_info	=atof(cZeile[6].c_str());
 	 							//cout <<temp_freq<< " "<< info_thresh << " "<<( temp_freq<=info_thresh)<< endl; // debug
 	 							/*
 	 							 * if(temp_freq<=info_thresh)

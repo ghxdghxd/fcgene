@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ(2.59)
-AC_INIT([fcgene], [1.0.7],[roshyra@yahoo.com])
+AC_INIT([fcgene], [1.0.7.1],[roshyra@yahoo.com])
 AC_CONFIG_SRCDIR([src/fcgene.cpp])
 AC_CONFIG_HEADER([src/config.h]) 
 AC_INIT_AUTOMAKE 

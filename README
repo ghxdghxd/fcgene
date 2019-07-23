@@ -1,6 +1,6 @@
 ||============================================================================||
 Program : fcGENE
-Version: 1.0.7
+Version: 1.0.7.1
 Aims :
 1.To perform snp-wise and individual-wise quality control. 
 2.To convert plink format data (with or without excluding 
@@ -39,19 +39,19 @@ Use of pre-compiled version of the program:
 ###########################################
 1.	To use in Windows system:
 	*-> Download  from 
-		http://sourceforge.net/projects/fcgene/files/fcgene-1.0.7.tar.gz/download 
-		and and decompress to get fcgene-1.0.7 directory.	
+		http://sourceforge.net/projects/fcgene/files/fcgene-1.0.7.1.tar.gz/download 
+		and and decompress to get fcgene-1.0.7.1 directory.	
 	*-> Open  command promt (cmd.exe). 
-	*->Go the directory of fcgene-1.0.7 with command ``cd fcgene-1.0.7''.
+	*->Go the directory of fcgene-1.0.7.1 with command ``cd fcgene-1.0.7.1''.
 	*-> copy the from fcgene.exe to your working directopy with command 
 	"cp fcgene.exe working_directory" 
 	and start to use fcgene.exe program
 2.	To use in Linux system:
 	*->Open  Linux console. 
 	*->Use the following command to download: 
-	wget http://sourceforge.net/projects/fcgene/files/fcgene-1.0.7.tar.gz/download
-	*->To unpack use command : ``tar -zxvf fcgene-1.0.7.tar.gz''. 
-	*->Go the directory of fcgene-1.0.7 with command ``cd fcgene-1.0.7''.
+	wget http://sourceforge.net/projects/fcgene/files/fcgene-1.0.7.1.tar.gz/download
+	*->To unpack use command : ``tar -zxvf fcgene-1.0.7.1.tar.gz''. 
+	*->Go the directory of fcgene-1.0.7.1 with command ``cd fcgene-1.0.7.1''.
 	*->If you want to use static version of the program, type command :
 		``mv fcgene\_static  fcgene'', 
    	*->For the dynamic version type  command: ``mv fcgene\_dynamic  fcgene''.  
@@ -63,9 +63,9 @@ Compilation of the program:
 2. For Linux users:
 	*->Open Linux console
 	*->Use the following command to download: 
-	wget http://sourceforge.net/projects/fcgene/files/fcgene-1.0.7.tar.gz/download
-	*->To unpack use command : ``tar -zxvf fcgene-1.0.7.tar.gz''. 
-	*->Go the directory of fcgene-1.0.7 with command ``cd fcgene-1.0.7''.
+	wget http://sourceforge.net/projects/fcgene/files/fcgene-1.0.7.1.tar.gz/download
+	*->To unpack use command : ``tar -zxvf fcgene-1.0.7.1.tar.gz''. 
+	*->Go the directory of fcgene-1.0.7.1 with command ``cd fcgene-1.0.7.1''.
 	*->Execute the commands: 
 	 1. ./configure #(type `` ./configure'' and press <enter>). 
 	 2. make   	#(type `` make'' and press <enter>). 
@@ -88,9 +88,9 @@ Compilation of the program:
 	*->Download and install MINGW program from http://www.mingw.org/,
 	 if this is not installed on your computer.
 	*->Open mSys console installed together with MINGW program
-	*-> Download and decompress fcgene-1.0.7 from 
-	http://sourceforge.net/projects/fcgene/files/fcgene-1.0.7.tar.gz/download 
-	*->Go the directory of fcgene-1.0.7 with command ``cd fcgene-1.0.7''.
+	*-> Download and decompress fcgene-1.0.7.1 from 
+	http://sourceforge.net/projects/fcgene/files/fcgene-1.0.7.1.tar.gz/download 
+	*->Go the directory of fcgene-1.0.7.1 with command ``cd fcgene-1.0.7.1''.
 	*->Execute the command: 
 		`` ./configure'' (type `` ./configure'' and press enter). 
 	*->Execute the command: 

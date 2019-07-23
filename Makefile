@@ -2,7 +2,7 @@
 
 # Package-related substitution variables
 package        = fcgene
-version        = 1.0.7
+version        = 1.0.7.1
 tarname        = fcgene
 distdir        = $(tarname)-$(version)
 # automake initialisation (mandatory) and check for minimal automake API version 1.9
